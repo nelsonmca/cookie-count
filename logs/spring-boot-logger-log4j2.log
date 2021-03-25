@@ -1,0 +1,5 @@
+2021-03-25 14:18:36,436 INFO o.s.b.StartupInfoLogger [main] Starting CookieCountApplication v0.0.1-SNAPSHOT using Java 1.8.0_271 on Nelsons-MBP with PID 3088 (/Users/nelsonnadar/Documents/workspace/spring/cookie-count/target/cookie-0.0.1-SNAPSHOT.jar started by nelsonnadar in /Users/nelsonnadar/Documents/workspace/spring/cookie-count)
+2021-03-25 14:18:36,439 DEBUG o.s.b.StartupInfoLogger [main] Running with Spring Boot v2.4.4, Spring v5.3.5
+2021-03-25 14:18:36,440 INFO o.s.b.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-03-25 14:18:36,918 INFO o.s.b.StartupInfoLogger [main] Started CookieCountApplication in 0.88 seconds (JVM running for 1.619)
+2021-03-25 14:18:36,921 ERROR c.n.c.CookieCountApplication [main] Missing date (-d) parameter
